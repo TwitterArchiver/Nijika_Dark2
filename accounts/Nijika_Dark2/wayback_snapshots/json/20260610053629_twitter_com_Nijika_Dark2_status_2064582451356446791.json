@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2064582451356446791",
+    "created_at": "2026-06-10T05:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064582451356446791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954500072517103617",
+          "start": 3,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064582451356446791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064422825486942410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dtxx333: 我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2064582451356446791",
+        "created_at": "2026-06-10T05:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064582451356446791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954500072517103617",
+              "start": 3,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064582451356446791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064422825486942410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dtxx333: 我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954500072517103617",
+        "conversation_id": "2064422825486942410",
+        "created_at": "2026-06-09T19:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064422825486942410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064422825486942410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 26665,
+          "like_count": 1330,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 65
+        },
+        "reply_settings": "following",
+        "text": "我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜rc💊日本普瑞🍥hrt日雌泰补土色💊减肥产品下方链接｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "残月",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 54,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "我都是乱说的",
+        "id": "1954500072517103617",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1988637598730854771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038095789898317824/PZ_lPtAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 316,
+          "like_count": 8325,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 2525
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

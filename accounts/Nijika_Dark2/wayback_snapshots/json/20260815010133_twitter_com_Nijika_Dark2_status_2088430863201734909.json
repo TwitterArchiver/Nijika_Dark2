@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2088337613304586298",
+    "created_at": "2026-08-15T01:01:33.000Z",
+    "display_text_range": [
+      12,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088430863201734909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088430863201734909",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088337613304586298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 何意味？同样是暴力行为，歹徒的暴力行为和执法人员的暴力行为能粗暴的画上等号吗？不区分其行为的诉求吗？\n同样的，你说的这两种暴力行为诉求逻辑一样吗？能随便画等号吗？\n另外，我跟你说一下，你是一条四叠烂🐴的精神病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2088337613304586298",
+        "created_at": "2026-08-15T01:01:33.000Z",
+        "display_text_range": [
+          12,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088430863201734909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088430863201734909",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088337613304586298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 何意味？同样是暴力行为，歹徒的暴力行为和执法人员的暴力行为能粗暴的画上等号吗？不区分其行为的诉求吗？\n同样的，你说的这两种暴力行为诉求逻辑一样吗？能随便画等号吗？\n另外，我跟你说一下，你是一条四叠烂🐴的精神病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2088337613304586298",
+        "created_at": "2026-08-14T18:51:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088337613304586298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088337613304586298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1568,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我支持三角枫。\n因为你必须记住，普通人的冲突中使用暴力是弱势的表现，因为不能通过常规社会资源维护利益时，最后的选择才是直接的暴力，正如欠薪老板不需要拿刀指着讨薪民工才能逼迫对方就范\n以及，精神病是被社会强奸染上的性病，精神病院和监狱一样是为统治阶级服务的暴政\n还有，按时间她不在药效"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2088430863201734909",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023 srs2025 一米九超大只术娘老阿姨\n自由左翼的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视/如果我放弃我的自由屈从于国家机器的规训我就已经死了",
+        "id": "1597468568290873344",
+        "is_identity_verified": false,
+        "location": "谁人的繁星之梦",
+        "most_recent_tweet_id": "2088337613304586298",
+        "name": "愿望天使DesireAngel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597468568290873344/1771935753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5891,
+          "following_count": 2001,
+          "like_count": 128487,
+          "listed_count": 22,
+          "media_count": 268,
+          "tweet_count": 19444
+        },
+        "url": "",
+        "username": "jingzhny11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2094805569647308848",
+    "created_at": "2026-09-02T04:02:07.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094999285771424163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882705285816672256",
+          "start": 0,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094999285771424163",
+    "in_reply_to_user_id": "1882705285816672256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094805569647308848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom779853915031 溢价来自于渠道和风险（见谅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2094805569647308848",
+        "created_at": "2026-09-02T04:02:07.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094999285771424163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882705285816672256",
+              "start": 0,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094999285771424163",
+        "in_reply_to_user_id": "1882705285816672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094805569647308848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom779853915031 溢价来自于渠道和风险（见谅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882705285816672256",
+        "conversation_id": "2094805569647308848",
+        "created_at": "2026-09-01T15:12:22.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094805569647308848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nijika_Dark2/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Nijika_Dark2/status/2094679757560652021",
+              "start": 16,
+              "url": "https://t.co/Hoal1wg5Ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094805569647308848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094679757560652021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg 250/盒够买我命的了 https://t.co/Hoal1wg5Ns"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2094999285771424163",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 191,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁焦虑 | 非资深oder | 友跨 | 互fo请私信 | 心理性别女 | 重度社交恐惧 | 日常 | 虚无主义 |  偶尔穿穿女装 | emoji精通\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian\n咱的小号@benzyl_group",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "6De_dian"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "benzyl_group"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2094815552069943622",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 497,
+          "like_count": 2658,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

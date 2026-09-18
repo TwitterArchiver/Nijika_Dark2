@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2090838555769892976",
+    "created_at": "2026-08-21T22:53:25.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T23:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090935329884962963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823987651655127040",
+          "start": 0,
+          "username": "ookoukibob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090935329884962963",
+    "in_reply_to_user_id": "1823987651655127040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090895390916886531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookoukibob 谢谢泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2090838555769892976",
+        "created_at": "2026-08-21T22:53:25.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090935329884962963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823987651655127040",
+              "start": 0,
+              "username": "ookoukibob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090935329884962963",
+        "in_reply_to_user_id": "1823987651655127040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090895390916886531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookoukibob 谢谢泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823987651655127040",
+        "conversation_id": "2090838555769892976",
+        "created_at": "2026-08-21T20:14:42.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090895390916886531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090895390916886531",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090838555769892976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2090935329884962963",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 162,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "伪娘享受者｜PDW现役编辑｜狂热の日麻雀士\nBass🎸&Drum🥁&Winds🪈\n27fall English/中文OK  \n查成分互fo LGBTQ+Friendly🏳️‍⚧️🏳️‍🌈\nTelegram频道https://t.co/hCjhUdZOZv\n站点链接🔗https://t.co/msb6Dyz0O4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ookoukibobchan…",
+                "end": 127,
+                "expanded_url": "https://t.me/ookoukibobchannel",
+                "start": 104,
+                "url": "https://t.co/hCjhUdZOZv"
+              },
+              {
+                "display_url": "psydrugs.org",
+                "end": 156,
+                "expanded_url": "http://psydrugs.org",
+                "start": 133,
+                "url": "https://t.co/msb6Dyz0O4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob57851",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob57851",
+                "start": 0,
+                "url": "https://t.co/e3w2WOGZ0Y"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "is_identity_verified": false,
+        "location": "Toshima-ku, Tokyo",
+        "most_recent_tweet_id": "2090895390916886531",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823987651655127040/1782845013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010081830209241089/w8z8AzRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 757,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/e3w2WOGZ0Y",
+        "username": "ookoukibob",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

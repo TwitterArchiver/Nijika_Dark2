@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2088600204136288468",
+    "created_at": "2026-08-15T12:14:27.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088600204136288468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suekageseikiyo…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/suekageseikiyo/status/2088476175450722807",
+          "start": 44,
+          "url": "https://t.co/NBG4aNXB10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088600204136288468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088476175450722807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里的热度高有一种原神21国热度登顶的美感\n依旧圈子里声量大＝热度高\n雷声大雨点小罢了 https://t.co/NBG4aNXB10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2088600204136288468",
+        "created_at": "2026-08-15T12:14:27.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088600204136288468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2088476175450722807",
+              "start": 44,
+              "url": "https://t.co/NBG4aNXB10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088600204136288468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088476175450722807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里的热度高有一种原神21国热度登顶的美感\n依旧圈子里声量大＝热度高\n雷声大雨点小罢了 https://t.co/NBG4aNXB10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2088476175450722807",
+        "created_at": "2026-08-15T04:01:36.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088476175450722807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088476175450722807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "三角枫一伤人事件一出，全世界的“遵纪守法好公民”瞬间集结，义愤填膺的程度远超以往。可回想起此前那些真正威胁公共安全的献忠事件，讨论热度却远没有这次高。\n我从不认为持械伤人是对的。但客观比较，后者对普通人生命安全的实际危害明显更大。为什么那些更严重的案件，却很少见到如此整齐划一、铺天盖地的愤怒？\n有人急着声明：“不能因为作案人是mtf就替她辩护。”可到目前为止，我还没见过有人真正在为她的犯罪行为开脱。更何况，受害人也是mtf。\n这件事更像是给一部分人送来了久旱逢甘霖的机会——“看吧，你们中的一份子伤人了，这下更证明你们整体该死。”可笑的是，同样这批人在其他严重破坏社会治安的犯罪发生时，往往并不会如此痛批作案者。\n这和以前围观看砍头，到底有多大区别？有几个看客是真心在乎公平、正义与治安？更多人只是在借机宣泄情绪、确认自己站在“正确”的一边罢了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4374,
+          "like_count": 61,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "三角枫一伤人事件一出，全世界的“遵纪守法好公民”瞬间集结，义愤填膺的程度远超以往。可回想起此前那些真正威胁公共安全的献忠事件，讨论热度却远没有这次高。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2088600204136288468",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 149,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088509540916695047",
+        "name": "末々🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605093608910381056/1771945016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 605,
+          "like_count": 9181,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 1455
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

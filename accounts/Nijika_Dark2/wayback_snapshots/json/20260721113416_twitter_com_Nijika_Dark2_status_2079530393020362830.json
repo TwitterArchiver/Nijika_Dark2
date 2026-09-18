@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2079218457942626557",
+    "created_at": "2026-07-21T11:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079530393020362830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "HiiroGekkaFlan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079530393020362830",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079218457942626557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiiroGekkaFlan 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2079218443954597888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNreKJpasAAv792.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2079218457942626557",
+        "created_at": "2026-07-21T11:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079530393020362830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079530393020362830",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079218457942626557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079218443954597888"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079218457942626557",
+        "created_at": "2026-07-20T14:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079218457942626557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMxIsRKLjI",
+              "end": 34,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2079218457942626557/photo/1",
+              "media_key": "3_2079218443954597888",
+              "start": 11,
+              "url": "https://t.co/gMxIsRKLjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079218457942626557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1377,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢你，你喜欢我吗 https://t.co/gMxIsRKLjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 126,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 901,
+          "like_count": 13484,
+          "listed_count": 2,
+          "media_count": 467,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

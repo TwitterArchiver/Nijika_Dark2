@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Boston",
+          "id": "855431757247545346",
+          "name": "Boston"
+        }
+      }
+    ],
+    "conversation_id": "2068799966349266965",
+    "created_at": "2026-06-21T21:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068813141421777274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3351760203",
+          "start": 0,
+          "username": "NiKoCS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068813141421777274",
+    "in_reply_to_user_id": "3351760203",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068799966349266965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiKoCS_ Niko, I'm a fan from China. I've been following you for many years. I watched you lose the Boston Major in 2018, and not long after that, I fell into depression. Whenever life felt unbearable, I reminded myself to keep fighting, just like you never gave up."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2068799939266658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXalXNWwAAdXpP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Boston",
+              "id": "855431757247545346",
+              "name": "Boston"
+            }
+          }
+        ],
+        "conversation_id": "2068799966349266965",
+        "created_at": "2026-06-21T21:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068813141421777274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3351760203",
+              "start": 0,
+              "username": "NiKoCS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068813141421777274",
+        "in_reply_to_user_id": "3351760203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068799966349266965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiKoCS_ Niko, I'm a fan from China. I've been following you for many years. I watched you lose the Boston Major in 2018, and not long after that, I fell into depression. Whenever life felt unbearable, I reminded myself to keep fighting, just like you never gave up."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068799939266658304"
+          ]
+        },
+        "author_id": "3351760203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "FaZeClan (Esports)",
+              "id": "859465443316080640",
+              "name": "FaZeClan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          }
+        ],
+        "conversation_id": "2068799966349266965",
+        "created_at": "2026-06-21T20:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068799966349266965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXBnCxEZGR",
+              "end": 40,
+              "expanded_url": "https://x.com/NiKoCS_/status/2068799966349266965/photo/1",
+              "media_key": "3_2068799939266658304",
+              "start": 17,
+              "url": "https://t.co/NXBnCxEZGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068799966349266965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 182084,
+          "like_count": 24679,
+          "quote_count": 100,
+          "reply_count": 887,
+          "retweet_count": 2821
+        },
+        "reply_settings": "everyone",
+        "text": "Never give up ❤️ https://t.co/NXBnCxEZGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 96,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-30T13:41:17.000Z",
+        "description": "Gamer for @FalconsEsport @TeamRazer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "FalconsEsport"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "TeamRazer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/csgoniko",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/csgoniko",
+                "start": 0,
+                "url": "https://t.co/vWf6oHihLf"
+              }
+            ]
+          }
+        },
+        "id": "3351760203",
+        "location": "Bosnia and Herzegovina",
+        "name": "Nikola Kovač",
+        "pinned_tweet_id": "2068799966349266965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912286386972966913/poWzJg6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923203,
+          "following_count": 476,
+          "like_count": 8227,
+          "listed_count": 1439,
+          "media_count": 691,
+          "tweet_count": 6882
+        },
+        "url": "https://t.co/vWf6oHihLf",
+        "username": "NiKoCS_",
+        "verified": true
+      }
+    ]
+  }
+}

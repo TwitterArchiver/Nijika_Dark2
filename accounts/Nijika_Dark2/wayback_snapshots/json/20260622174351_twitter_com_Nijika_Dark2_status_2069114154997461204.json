@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069114145933553664"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2069112324737401135",
+    "created_at": "2026-06-22T17:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069114154997461204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "K1ku21_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WPrJO24ZjO",
+          "end": 40,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2069114154997461204/photo/1",
+          "media_key": "3_2069114145933553664",
+          "start": 17,
+          "url": "https://t.co/WPrJO24ZjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069114154997461204",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069112324737401135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ku21_ 梨宝宝妈妈爱你 https://t.co/WPrJO24ZjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069114145933553664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb4WmQa8AAahkk.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069114145933553664"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2069112324737401135",
+        "created_at": "2026-06-22T17:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069114154997461204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "K1ku21_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPrJO24ZjO",
+              "end": 40,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2069114154997461204/photo/1",
+              "media_key": "3_2069114145933553664",
+              "start": 17,
+              "url": "https://t.co/WPrJO24ZjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069114154997461204",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069112324737401135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ku21_ 梨宝宝妈妈爱你 https://t.co/WPrJO24ZjO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2069112324737401135",
+        "created_at": "2026-06-22T17:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069112324737401135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069112324737401135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想有个人能一直陪着我…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 96,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推\n关注@Yesmynamehaer1 @MukugeOvO @Nijika_Dark2 @winterfruit_1 @tianxiao0502 @Akinoyo_desu谢谢喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Yesmynamehaer1"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "MukugeOvO"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Nijika_Dark2"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "tianxiao0502"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZTiV6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496715651719168/4h2oWcLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 226,
+          "like_count": 25181,
+          "listed_count": 3,
+          "media_count": 701,
+          "tweet_count": 13947
+        },
+        "url": "https://t.co/5udd6ZTiV6",
+        "username": "K1ku21_",
+        "verified": false
+      }
+    ]
+  }
+}

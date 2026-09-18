@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2096846099156025722",
+    "created_at": "2026-09-07T10:36:22.000Z",
+    "display_text_range": [
+      23,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096910439657664605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867560160895651840",
+          "start": 0,
+          "username": "_c_a_n_o"
+        },
+        {
+          "end": 22,
+          "id": "2095558512848023552",
+          "start": 10,
+          "username": "yumeng_0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096910439657664605",
+    "in_reply_to_user_id": "1867560160895651840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096896427805032653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_c_a_n_o @yumeng_0721 这个……阿片、；它：不得了？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2096846099156025722",
+        "created_at": "2026-09-07T10:36:22.000Z",
+        "display_text_range": [
+          23,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096910439657664605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867560160895651840",
+              "start": 0,
+              "username": "_c_a_n_o"
+            },
+            {
+              "end": 22,
+              "id": "2095558512848023552",
+              "start": 10,
+              "username": "yumeng_0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096910439657664605",
+        "in_reply_to_user_id": "1867560160895651840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096896427805032653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_c_a_n_o @yumeng_0721 这个……阿片、；它：不得了？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867560160895651840",
+        "conversation_id": "2096846099156025722",
+        "created_at": "2026-09-07T09:40:41.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096896427805032653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2095558512848023552",
+              "start": 0,
+              "username": "yumeng_0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096896427805032653",
+        "in_reply_to_user_id": "2095558512848023552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096846099156025722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng_0721 你说老美怎么就对阿片情有独钟呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2096910439657664605",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 203,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-13T13:20:24.000Z",
+        "description": "太美的 美的\n一切都将被换掉\n不顾骨髓的\n一切都将被换掉",
+        "id": "1867560160895651840",
+        "is_identity_verified": false,
+        "location": "🚪38",
+        "most_recent_tweet_id": "2096896427805032653",
+        "name": "南鸢🍥",
+        "pinned_tweet_id": "2087990751900971317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867560160895651840/1786645176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966911451828224/_tl9EtFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 34,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "_c_a_n_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T17:08:05.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/Lp01040s9g DC频道https://t.co/GGKGuobdqJ 个人频道https://t.co/rXjyEV4O09",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/Lp01040s9g"
+              },
+              {
+                "display_url": "discord.gg/MUPW3pRsSU",
+                "end": 63,
+                "expanded_url": "https://discord.gg/MUPW3pRsSU",
+                "start": 40,
+                "url": "https://t.co/GGKGuobdqJ"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 91,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 68,
+                "url": "https://t.co/rXjyEV4O09"
+              }
+            ]
+          }
+        },
+        "id": "2095558512848023552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096846099156025722",
+        "name": "Meng",
+        "pinned_tweet_id": "2095833561677082644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095558512848023552/1788456727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095559876382760960/ULqsJiLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "yumeng_0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

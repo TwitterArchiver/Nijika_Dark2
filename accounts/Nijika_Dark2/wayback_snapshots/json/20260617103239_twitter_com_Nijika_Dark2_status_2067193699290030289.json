@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2067111467414114723",
+    "created_at": "2026-06-17T10:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067193699290030289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1808535836247609347",
+          "start": 0,
+          "username": "YuBanTV"
+        },
+        {
+          "end": 20,
+          "id": "1552918719440924672",
+          "start": 9,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067193699290030289",
+    "in_reply_to_user_id": "1808535836247609347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067160383752966558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@YuBanTV @itsCatRoll 确实滑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2067111467414114723",
+        "created_at": "2026-06-17T10:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067193699290030289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808535836247609347",
+              "start": 0,
+              "username": "YuBanTV"
+            },
+            {
+              "end": 20,
+              "id": "1552918719440924672",
+              "start": 9,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067193699290030289",
+        "in_reply_to_user_id": "1808535836247609347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067160383752966558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@YuBanTV @itsCatRoll 确实滑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808535836247609347",
+        "conversation_id": "2067111467414114723",
+        "created_at": "2026-06-17T08:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067160383752966558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067160383752966558",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067111467414114723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll 反正我差点摔死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜rc💊日本普瑞🍥hrt日雌泰补土色💊减肥产品下方链接｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "残月",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 80,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "PDW 現任審核兼編輯 Chinese（TaiWan)/English /Japanese/ Cantonese/公民記者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/eeb205XMJw"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "location": "Tainan City, Taiwan",
+        "name": "超级御御御坂美琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065877393802444800/GbE57W8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 903,
+          "like_count": 4945,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/eeb205XMJw",
+        "username": "YuBanTV",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "（即将退役的）糖商\n⚠️搬太多非原创内容会单取；和神人互动会连坐\n\n里账号@LTSxn0z\n\n💌@hobartr6\n妹妹@leetfs1\n笨蛋肥鸟姐姐@hoshi_asuka0089\n大猫@_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "LTSxn0z"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "hobartr6"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "leetfs1"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "衍星猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4097,
+          "following_count": 846,
+          "like_count": 4204,
+          "listed_count": 9,
+          "media_count": 92,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

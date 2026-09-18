@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2092604834470142319",
+    "created_at": "2026-08-29T13:32:12.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093693198577373212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1570754042590285825",
+          "start": 0,
+          "username": "_ShadowTwilight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093693198577373212",
+    "in_reply_to_user_id": "1570754042590285825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093199221042397236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ShadowTwilight 恶俗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2092604834470142319",
+        "created_at": "2026-08-29T13:32:12.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093693198577373212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1570754042590285825",
+              "start": 0,
+              "username": "_ShadowTwilight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093693198577373212",
+        "in_reply_to_user_id": "1570754042590285825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093199221042397236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ShadowTwilight 恶俗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570754042590285825",
+        "conversation_id": "2092604834470142319",
+        "created_at": "2026-08-28T04:49:18.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093199221042397236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093199221042397236",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092604834470142319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 你说他恶不恶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2093693198577373212",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 179,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-16T12:38:51.000Z",
+        "description": "09//自由与和平//欢迎聊天//游戏菜b//\nF1//铁路航空//OD//键盘手//数码//ACGN//互fo//\n\n——愛をください",
+        "id": "1570754042590285825",
+        "is_identity_verified": false,
+        "location": "银河",
+        "most_recent_tweet_id": "2093206795070345316",
+        "name": "紗千鳶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570754042590285825/1772998415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025987018820628480/sjVUqfNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 205,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1520
+        },
+        "url": "",
+        "username": "_ShadowTwilight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

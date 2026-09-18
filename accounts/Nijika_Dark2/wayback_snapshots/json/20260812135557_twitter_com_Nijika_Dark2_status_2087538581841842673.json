@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2087538581841842673",
+    "created_at": "2026-08-12T13:55:57.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087538581841842673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miyako_yumemit…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/miyako_yumemita/status/2087479203528892768",
+          "start": 28,
+          "url": "https://t.co/7lJ4Xvql9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087538581841842673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087479203528892768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "薇藤真的\n你们知道吗\n小小乐队两个心理变态一个攻一个受 https://t.co/7lJ4Xvql9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2087471357349220352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgwI72aUAAgKb4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2087538581841842673",
+        "created_at": "2026-08-12T13:55:57.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087538581841842673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miyako_yumemit…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/miyako_yumemita/status/2087479203528892768",
+              "start": 28,
+              "url": "https://t.co/7lJ4Xvql9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087538581841842673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087479203528892768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "薇藤真的\n你们知道吗\n小小乐队两个心理变态一个攻一个受 https://t.co/7lJ4Xvql9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087471357349220352"
+          ]
+        },
+        "author_id": "1712839187546992640",
+        "conversation_id": "2087479203528892768",
+        "created_at": "2026-08-12T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087479203528892768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjUfwT0PLP",
+              "end": 27,
+              "expanded_url": "https://x.com/miyako_yumemita/status/2087479203528892768/photo/1",
+              "media_key": "3_2087471357349220352",
+              "start": 4,
+              "url": "https://t.co/kjUfwT0PLP"
+            },
+            {
+              "display_url": "x.com/miyako_yumemit…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/miyako_yumemita/status/2085695709903475157",
+              "start": 28,
+              "url": "https://t.co/lbVTwn4yW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087479203528892768",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087471357349220352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 556,
+          "impression_count": 190885,
+          "like_count": 7238,
+          "quote_count": 297,
+          "reply_count": 198,
+          "retweet_count": 1642
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085695709903475157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💜🐶💜 https://t.co/kjUfwT0PLP https://t.co/lbVTwn4yW9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2087538581841842673",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 150,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-13T14:34:45.000Z",
+        "description": "夢限大みゅーたいぷ @BDP_yumemita key.\n健康まんが家•イラストレーター💪🐶🍤 \n📖ちゃおプラスにて #マジるる 連載中♪\n🏷️総合 #みるみやこ FA #かくみやこ ログ #みやこが描いた\n💜Instagram https://t.co/xUJSRpiiET",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "マジるる"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "みるみやこ"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "かくみやこ"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "みやこが描いた"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "BDP_yumemita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/38_385_popo",
+                "end": 138,
+                "expanded_url": "https://www.instagram.com/38_385_popo",
+                "start": 115,
+                "url": "https://t.co/xUJSRpiiET"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@miyako_yumemi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@miyako_yumemita",
+                "start": 0,
+                "url": "https://t.co/qYNlly7tvN"
+              }
+            ]
+          }
+        },
+        "id": "1712839187546992640",
+        "is_identity_verified": true,
+        "location": "♰🥮🏺🦆♰",
+        "most_recent_tweet_id": "2087479203528892768",
+        "name": "藤都子",
+        "pinned_tweet_id": "1976958282242965858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712839187546992640/1716250957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722603009677701120/ive9TlKN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50299,
+          "following_count": 87,
+          "like_count": 50007,
+          "listed_count": 307,
+          "media_count": 1585,
+          "tweet_count": 10106
+        },
+        "url": "https://t.co/qYNlly7tvN",
+        "username": "miyako_yumemita",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

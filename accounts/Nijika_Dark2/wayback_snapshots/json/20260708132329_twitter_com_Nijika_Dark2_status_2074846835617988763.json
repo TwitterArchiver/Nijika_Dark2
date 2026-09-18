@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074846829058166784"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074846835617988763",
+    "created_at": "2026-07-08T13:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074846835617988763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2zNcYRCX4",
+          "end": 28,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2074846835617988763/photo/1",
+          "media_key": "3_2074846829058166784",
+          "start": 5,
+          "url": "https://t.co/d2zNcYRCX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074846835617988763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "颗药喵喵 https://t.co/d2zNcYRCX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2074846829058166784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtWMrFbkAAGj0R.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074846829058166784"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074846835617988763",
+        "created_at": "2026-07-08T13:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074846835617988763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2zNcYRCX4",
+              "end": 28,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2074846835617988763/photo/1",
+              "media_key": "3_2074846829058166784",
+              "start": 5,
+              "url": "https://t.co/d2zNcYRCX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074846835617988763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "颗药喵喵 https://t.co/d2zNcYRCX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 109,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      }
+    ]
+  }
+}

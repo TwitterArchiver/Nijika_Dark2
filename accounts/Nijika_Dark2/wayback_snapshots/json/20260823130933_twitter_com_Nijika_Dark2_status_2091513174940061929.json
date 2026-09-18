@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2091513174940061929",
+    "created_at": "2026-08-23T13:09:33.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091513174940061929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2091110632921993654",
+          "start": 32,
+          "url": "https://t.co/xRISWESgaC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091513174940061929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091110632921993654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷个帖子嗷\n哦，牛批，有这种帖子的\n我叠要死了我看什么【汤圆】 https://t.co/xRISWESgaC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28583,
+        "height": 1280,
+        "media_key": "13_2091079241308000256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091079241308000256/img/YuU0GwTg_h2IAB0I.jpg",
+        "public_metrics": {
+          "view_count": 239868
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091079241308000256/vid/avc1/320x568/lpVuHsVBMN8okfg2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091079241308000256/vid/avc1/480x852/p2F9oYugBN-LdhLe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091079241308000256/vid/avc1/720x1280/oOcHC3kk4b9gFNGC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091079241308000256/pl/8ggOauqPiGiMY9A7.m3u8?v=64f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2091513174940061929",
+        "created_at": "2026-08-23T13:09:33.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091513174940061929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2091110632921993654",
+              "start": 32,
+              "url": "https://t.co/xRISWESgaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091513174940061929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091110632921993654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷个帖子嗷\n哦，牛批，有这种帖子的\n我叠要死了我看什么【汤圆】 https://t.co/xRISWESgaC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091079241308000256"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2091110632921993654",
+        "created_at": "2026-08-22T10:30:00.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091110632921993654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFccuLYorp",
+              "end": 119,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091110632921993654/video/1",
+              "media_key": "13_2091079241308000256",
+              "start": 96,
+              "url": "https://t.co/uFccuLYorp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091110632921993654",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091079241308000256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 364598,
+          "like_count": 1584,
+          "quote_count": 30,
+          "reply_count": 630,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "“大陆人和台湾人生的孩子是混血儿”\n8月21日，B站动漫解说UP主“瓶子君152”在直播中表示，“大陆人和台湾人生的孩子是混血儿”，引发网友广泛讨论。\n目前，B站上与这段直播录屏已全部下架。 https://t.co/uFccuLYorp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2091513174940061929",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 160,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2091510770060214319",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254505,
+          "following_count": 1080,
+          "like_count": 10183,
+          "listed_count": 8885,
+          "media_count": 52547,
+          "tweet_count": 59858
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

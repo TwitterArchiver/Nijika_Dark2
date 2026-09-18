@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2096996144903819283",
+    "created_at": "2026-09-07T16:33:09.000Z",
+    "display_text_range": [
+      14,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097000229057020381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992140394679910400",
+          "start": 0,
+          "username": "Overdose_DID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097000229057020381",
+    "in_reply_to_user_id": "1992140394679910400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096996144903819283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DID *指导点评：未知全貌，疑似有人没捞够，但叶那边也不是啥好人，各打五十大板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2096996144903819283",
+        "created_at": "2026-09-07T16:33:09.000Z",
+        "display_text_range": [
+          14,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097000229057020381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992140394679910400",
+              "start": 0,
+              "username": "Overdose_DID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097000229057020381",
+        "in_reply_to_user_id": "1992140394679910400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096996144903819283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DID *指导点评：未知全貌，疑似有人没捞够，但叶那边也不是啥好人，各打五十大板"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992140394679910400",
+        "conversation_id": "2096996144903819283",
+        "created_at": "2026-09-07T16:16:55.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096996144903819283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096996144903819283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客观来讲我觉得叶是否迷奸这件事且不谈 这个hiv有没有可能就是这人私生活混乱导致的 凭什么觉得说跟叶发生了关系就一定是他传染的呢 并且叶也确实给出了自己没有hiv的证明\n\n至于迷奸这个问题 在女方单方面神智不清的情况下 不管是否是女方先摸男方牛子 如果没有双方都有发生关系的意愿也只能算迷奸啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2097000229057020381",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 203,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T07:57:50.000Z",
+        "description": "滥用就是吸毒！",
+        "id": "1992140394679910400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096996144903819283",
+        "name": "超级橘橘橘雪莉",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090693320892878848/mFV4zcrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 36,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Overdose_DID",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

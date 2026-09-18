@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2097586509574799672",
+    "created_at": "2026-09-09T08:21:58.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097601393502888072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097601393502888072",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097586509574799672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa8964 我不敢看了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2097586475256930305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwfySdaYAEfotR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2097586509574799672",
+        "created_at": "2026-09-09T08:21:58.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097601393502888072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097601393502888072",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097586509574799672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa8964 我不敢看了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097586475256930305"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2097586509574799672",
+        "created_at": "2026-09-09T07:22:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097586509574799672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMYUMm3cO9",
+              "end": 23,
+              "expanded_url": "https://x.com/Retepa8964/status/2097586509574799672/photo/1",
+              "media_key": "3_2097586475256930305",
+              "start": 0,
+              "url": "https://t.co/KMYUMm3cO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097586509574799672",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097586475256930305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KMYUMm3cO9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2097601393502888072",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 205,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机😻/都市传说/文史哲艺爱好者/生理女友好一切/后现代/神必学游客/oder/精分/数字游民?/查成分互fo\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "is_identity_verified": false,
+        "location": "第三高原",
+        "most_recent_tweet_id": "2097586509574799672",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577362467419611137/1756231334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 954,
+          "like_count": 29450,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

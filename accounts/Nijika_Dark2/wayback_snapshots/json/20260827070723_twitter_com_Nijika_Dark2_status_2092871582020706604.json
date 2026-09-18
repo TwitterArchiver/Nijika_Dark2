@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2092783402911236476",
+    "created_at": "2026-08-27T07:07:23.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092871582020706604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092871582020706604",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092783402911236476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe 不安desu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2092783402911236476",
+        "created_at": "2026-08-27T07:07:23.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092871582020706604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092871582020706604",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092783402911236476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe 不安desu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047879211168493568",
+        "conversation_id": "2092783402911236476",
+        "created_at": "2026-08-27T01:16:59.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092783402911236476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_77xl_/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/_77xl_/status/2092135424752046568",
+              "start": 26,
+              "url": "https://t.co/CE2Vd8JcNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092783402911236476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092135424752046568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好窒息，日本的社会也这么糟糕，好多都是让她跳的…… https://t.co/CE2Vd8JcNK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2092871582020706604",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 171,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "⊹ すずめ ⊹ 前世：@aberyoheiabe⌇三代目：@aberyoheiszm⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aberyoheiabe"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "aberyoheiszm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2092870159509991701",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2085446161243201959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 299,
+          "like_count": 731,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

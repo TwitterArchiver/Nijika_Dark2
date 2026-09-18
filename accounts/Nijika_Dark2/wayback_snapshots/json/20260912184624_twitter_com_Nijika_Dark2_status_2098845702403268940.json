@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2098390728007409730",
+    "created_at": "2026-09-12T18:46:24.000Z",
+    "display_text_range": [
+      14,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098845702403268940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043745937298792448",
+          "start": 0,
+          "username": "ivan20221126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098845702403268940",
+    "in_reply_to_user_id": "2043745937298792448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098390728007409730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan20221126 哦对了我提一嘴，他自述是进过警局和戒毒所的，但估计因为吃的rc和完完全全的烂摊子精神病……呃呃，并没有受到什么实质惩罚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2098390728007409730",
+        "created_at": "2026-09-12T18:46:24.000Z",
+        "display_text_range": [
+          14,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098845702403268940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098845702403268940",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098390728007409730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 哦对了我提一嘴，他自述是进过警局和戒毒所的，但估计因为吃的rc和完完全全的烂摊子精神病……呃呃，并没有受到什么实质惩罚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098390728007409730",
+        "created_at": "2026-09-11T12:38:30.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098390728007409730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbpp10521715/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/pbpp10521715/status/2098378648348983686",
+              "start": 97,
+              "url": "https://t.co/HmaLMZ1D6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098390728007409730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1564,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098378648348983686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这还有什么不称职的，不报警把你送戒毒所两年强戒都已经烧高香了。自己瞎用挂了能怪谁，难道你父母还要时时刻刻看你血氧看你心率还要学药理学学怎么把你那糟糕的药物尝试逆转回来吗。自己都不在乎还能怎么办 https://t.co/HmaLMZ1D6y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098845702403268940",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 206,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098845104740204653",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 177,
+          "like_count": 8737,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

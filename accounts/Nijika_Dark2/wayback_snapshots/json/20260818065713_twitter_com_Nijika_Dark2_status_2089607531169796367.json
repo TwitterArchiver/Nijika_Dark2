@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2089253492745498793",
+    "created_at": "2026-08-18T06:57:13.000Z",
+    "display_text_range": [
+      27,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089607531169796367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961351591715639298",
+          "start": 0,
+          "username": "overdose_momo"
+        },
+        {
+          "end": 26,
+          "id": "2037817579448807424",
+          "start": 15,
+          "username": "Yuki283113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089607531169796367",
+    "in_reply_to_user_id": "1961351591715639298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089583105044832676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_momo @Yuki283113 喜欢我倒查三年医保报销的不合规开药然后挨个写报告吗，不写就交罚款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2089253492745498793",
+        "created_at": "2026-08-18T06:57:13.000Z",
+        "display_text_range": [
+          27,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089607531169796367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961351591715639298",
+              "start": 0,
+              "username": "overdose_momo"
+            },
+            {
+              "end": 26,
+              "id": "2037817579448807424",
+              "start": 15,
+              "username": "Yuki283113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089607531169796367",
+        "in_reply_to_user_id": "1961351591715639298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089583105044832676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_momo @Yuki283113 喜欢我倒查三年医保报销的不合规开药然后挨个写报告吗，不写就交罚款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961351591715639298",
+        "conversation_id": "2089253492745498793",
+        "created_at": "2026-08-18T05:20:09.000Z",
+        "display_text_range": [
+          12,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089583105044832676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037817579448807424",
+              "start": 0,
+              "username": "Yuki283113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089583105044832676",
+        "in_reply_to_user_id": "2037817579448807424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089253492745498793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki283113 可能是真的没权限，这两年医保查太严了。我经常挂号开药的那个医生之前都是给我开一个月的，现在和我说最多开两周，我问他为什么之前可以现在不行，他说其实以前他那个算违规操作，最近医保的人来医院检查还罚款了。。所以医生们最近都特别谨慎开的很少，要不是和我熟他甚至只开一周的量"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2089607531169796367",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 154,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T08:54:16.000Z",
+        "description": "堆放一些od相关或许包括odwiki相关_赛博八字isfp_adhd双相_prbl单推",
+        "id": "1961351591715639298",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089583105044832676",
+        "name": "mo mo",
+        "pinned_tweet_id": "2084519650361315496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961351591715639298/1764860123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996594009180139521/f19azjrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 23,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "overdose_momo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n互fo回归，请，会微差成分，全友好\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089605289183986024",
+        "name": "岐哥，梦想跪了。4.0",
+        "pinned_tweet_id": "2088874163620413586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1786884389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 277,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

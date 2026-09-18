@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2097888047820063215",
+    "created_at": "2026-09-10T08:03:10.000Z",
+    "display_text_range": [
+      14,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097959051283882494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097959051283882494",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097888047820063215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 主因：毒贩造假常用\n“国际上地下毒品流通中，利多卡因是非常高频的掺假、稀释填料”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097888021467303936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0yClobEAAJCO2.jpg",
+        "width": 1050
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097888021513396224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0yClzaYAAo5po.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2097888047820063215",
+        "created_at": "2026-09-10T08:03:10.000Z",
+        "display_text_range": [
+          14,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097959051283882494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097959051283882494",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097888047820063215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 主因：毒贩造假常用\n“国际上地下毒品流通中，利多卡因是非常高频的掺假、稀释填料”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097888021467303936",
+            "3_2097888021513396224"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2097888047820063215",
+        "created_at": "2026-09-10T03:21:02.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097888047820063215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Zk4MEET4v",
+              "end": 32,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2097888047820063215/photo/1",
+              "media_key": "3_2097888021467303936",
+              "start": 9,
+              "url": "https://t.co/0Zk4MEET4v"
+            },
+            {
+              "display_url": "pic.x.com/0Zk4MEET4v",
+              "end": 32,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2097888047820063215/photo/1",
+              "media_key": "3_2097888021513396224",
+              "start": 9,
+              "url": "https://t.co/0Zk4MEET4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097888047820063215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097888021467303936"
+          },
+          {
+            "media_key": "3_2097888021513396224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1421,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？那我这是什么？ https://t.co/0Zk4MEET4v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2097959051283882494",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 204,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097951533862449349",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1113,
+          "like_count": 2840,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 4368
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

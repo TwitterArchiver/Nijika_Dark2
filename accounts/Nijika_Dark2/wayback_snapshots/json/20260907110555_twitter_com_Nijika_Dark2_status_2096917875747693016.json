@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2096917875747693016",
+    "created_at": "2026-09-07T11:05:55.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096917875747693016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Manglesuki/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Manglesuki/status/2033859103853080826",
+          "start": 39,
+          "url": "https://t.co/bTJKYh5tAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096917875747693016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033859103853080826",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人生自古谁无死？不幸地……小马哥沐雨已无法与您继续互动\n让我们为他默哀八分钟 https://t.co/bTJKYh5tAB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2096917875747693016",
+        "created_at": "2026-09-07T11:05:55.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096917875747693016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Manglesuki/status/2033859103853080826",
+              "start": 39,
+              "url": "https://t.co/bTJKYh5tAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096917875747693016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033859103853080826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人生自古谁无死？不幸地……小马哥沐雨已无法与您继续互动\n让我们为他默哀八分钟 https://t.co/bTJKYh5tAB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2033859103853080826",
+        "created_at": "2026-03-17T10:52:52.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033859103853080826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/Manglesuki/status/1996632430036635741",
+              "start": 108,
+              "url": "https://t.co/DrytztdZI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033859103853080826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21857,
+          "like_count": 78,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讣告续集：\n药物百科前wiki主 药圈重要人物 沐雨\n2025.11月25日因吸入性肺炎去世\n已安葬于山东省枣庄市峄城区莲花山公墓\n他的样子还一直浮现在我们眼前\n凌雪接管了他的一些账号\n沉痛哀悼\n\nby.凌雪、玄鸮 https://t.co/DrytztdZI8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2096917875747693016",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 203,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主@yaowubaike｜鸦鸦叫Gavin｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "is_identity_verified": false,
+        "location": "Night city",
+        "most_recent_tweet_id": "2096514613768573127",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886054681635704832/1784149743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 110,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

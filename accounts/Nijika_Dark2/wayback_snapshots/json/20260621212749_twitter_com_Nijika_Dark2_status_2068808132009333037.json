@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2068799966349266965",
+    "created_at": "2026-06-21T21:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068808132009333037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 22,
+          "id": "3351760203",
+          "start": 14,
+          "username": "NiKoCS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068808132009333037",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068806694327787809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu @NiKoCS_ \"Not today,maybe…\"\n\"It's the day!My young boy!\""
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2068806689177182208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXguQlboAAsuLP.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2068799966349266965",
+        "created_at": "2026-06-21T21:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068808132009333037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 22,
+              "id": "3351760203",
+              "start": 14,
+              "username": "NiKoCS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068808132009333037",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068806694327787809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu @NiKoCS_ \"Not today,maybe…\"\n\"It's the day!My young boy!\""
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068806689177182208"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2068799966349266965",
+        "created_at": "2026-06-21T21:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068806694327787809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3351760203",
+              "start": 0,
+              "username": "NiKoCS_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1CF14PZu4",
+              "end": 32,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2068806694327787809/photo/1",
+              "media_key": "3_2068806689177182208",
+              "start": 9,
+              "url": "https://t.co/C1CF14PZu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068806694327787809",
+        "in_reply_to_user_id": "3351760203",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068799966349266965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiKoCS_ https://t.co/C1CF14PZu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 96,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1052,
+          "like_count": 5024,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-30T13:41:17.000Z",
+        "description": "Gamer for @FalconsEsport @TeamRazer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "FalconsEsport"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "TeamRazer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/csgoniko",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/csgoniko",
+                "start": 0,
+                "url": "https://t.co/vWf6oHihLf"
+              }
+            ]
+          }
+        },
+        "id": "3351760203",
+        "location": "Bosnia and Herzegovina",
+        "name": "Nikola Kovač",
+        "pinned_tweet_id": "2068799966349266965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912286386972966913/poWzJg6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922601,
+          "following_count": 476,
+          "like_count": 8227,
+          "listed_count": 1438,
+          "media_count": 691,
+          "tweet_count": 6882
+        },
+        "url": "https://t.co/vWf6oHihLf",
+        "username": "NiKoCS_",
+        "verified": true
+      }
+    ]
+  }
+}

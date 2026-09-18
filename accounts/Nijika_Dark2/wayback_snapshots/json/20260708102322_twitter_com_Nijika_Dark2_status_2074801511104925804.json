@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2074725084343030190",
+    "created_at": "2026-07-08T10:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074801511104925804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552238688590958592",
+          "start": 0,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074801511104925804",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074725084343030190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coccus_Swamer …？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2074725084343030190",
+        "created_at": "2026-07-08T10:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074801511104925804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074801511104925804",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074725084343030190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer …？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2074725084343030190",
+        "created_at": "2026-07-08T05:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074725084343030190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074725084343030190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人的精液射到伤口上的时候又痛又色情的感觉真是太棒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 109,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 2664,
+          "like_count": 9897,
+          "listed_count": 0,
+          "media_count": 685,
+          "tweet_count": 3672
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

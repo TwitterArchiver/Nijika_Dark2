@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2091142710828970245",
+    "created_at": "2026-08-22T12:37:28.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091142710828970245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2091031063355084903",
+          "start": 30,
+          "url": "https://t.co/YyrDlmGgMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091142710828970245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091031063355084903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没amber姐搞抽象我们看什么？\namber姐搞抽象辛苦了 https://t.co/YyrDlmGgMe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2091142710828970245",
+        "created_at": "2026-08-22T12:37:28.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091142710828970245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2091031063355084903",
+              "start": 30,
+              "url": "https://t.co/YyrDlmGgMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091142710828970245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091031063355084903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没amber姐搞抽象我们看什么？\namber姐搞抽象辛苦了 https://t.co/YyrDlmGgMe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090984042829345134",
+        "created_at": "2026-08-22T05:13:49.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091031063355084903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091031063355084903",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1281,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090984042829345134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 威能"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2091142710828970245",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 163,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2091057572614689168",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 900,
+          "like_count": 4181,
+          "listed_count": 6,
+          "media_count": 240,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使/🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "is_identity_verified": false,
+        "location": "500m",
+        "most_recent_tweet_id": "2090984042829345134",
+        "name": "カッヤ𐙚⋆°. ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228406233738072064/1783679464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089761527482195969/td6dLt0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 970,
+          "like_count": 383,
+          "listed_count": 7,
+          "media_count": 233,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "AR10545614",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

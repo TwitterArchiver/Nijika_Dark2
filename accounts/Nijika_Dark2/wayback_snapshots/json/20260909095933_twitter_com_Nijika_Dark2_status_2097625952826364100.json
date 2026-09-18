@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2097619689619046890",
+    "created_at": "2026-09-09T09:59:33.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097625952826364100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037900912560160768",
+          "start": 0,
+          "username": "NolanChenDFFF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097625952826364100",
+    "in_reply_to_user_id": "2037900912560160768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097619689619046890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NolanChenDFFF1 肺子咳烂咳咳咳……咳咳咳……🗣️🗣️🗣️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2097619689619046890",
+        "created_at": "2026-09-09T09:59:33.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097625952826364100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037900912560160768",
+              "start": 0,
+              "username": "NolanChenDFFF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097625952826364100",
+        "in_reply_to_user_id": "2037900912560160768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097619689619046890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NolanChenDFFF1 肺子咳烂咳咳咳……咳咳咳……🗣️🗣️🗣️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037900912560160768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FaZeClan (Esports)",
+              "id": "859465443316080640",
+              "name": "FaZeClan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496481875497414661",
+              "name": "Intel Extreme Masters"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "FaZeClan (Esports)",
+              "id": "859465443316080640",
+              "name": "FaZeClan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1496481875497414661",
+              "name": "Intel Extreme Masters"
+            }
+          }
+        ],
+        "conversation_id": "2097619689619046890",
+        "created_at": "2026-09-09T09:34:40.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097619689619046890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097619689619046890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位FAZE粉丝们，我们的IEM北京站到这里就结束了，很可惜我们没有进入淘汰赛被双败淘汰，下一站我们Singapore见，希望大家能继续支持我们FAZE CLAN，FAZE UP！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2097625952826364100",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 205,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T14:33:52.000Z",
+        "description": "CN/EN/DE | professional comment section terrorist\nCS2 • memes • internet nonsense🚪6657\n乐子人中文区乱窜 / learning German recently\n爱看👉🐉🦅🐆🐝🐭🌼🐴🐻",
+        "id": "2037900912560160768",
+        "is_identity_verified": false,
+        "location": "可是宗宗🥺啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "most_recent_tweet_id": "2097625780448891262",
+        "name": "Astralis的dev1ce本人🇩🇰",
+        "pinned_tweet_id": "2097251050558566812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037900912560160768/1788060542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037900989722755072/Ln3tVRyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 163,
+          "like_count": 5915,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2083
+        },
+        "url": "",
+        "username": "NolanChenDFFF1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

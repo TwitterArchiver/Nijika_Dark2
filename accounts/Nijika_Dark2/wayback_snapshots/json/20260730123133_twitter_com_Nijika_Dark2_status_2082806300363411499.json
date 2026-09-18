@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2082806300363411499",
+    "created_at": "2026-07-30T12:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082806300363411499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KitsuMio7/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/KitsuMio7/status/2082637295392616518",
+          "start": 12,
+          "url": "https://t.co/0VUqTjfqk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082806300363411499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082637295392616518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "洛城机密还是搏击俱乐部 https://t.co/0VUqTjfqk5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2082806300363411499",
+        "created_at": "2026-07-30T12:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082806300363411499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KitsuMio7/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/KitsuMio7/status/2082637295392616518",
+              "start": 12,
+              "url": "https://t.co/0VUqTjfqk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082806300363411499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082637295392616518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洛城机密还是搏击俱乐部 https://t.co/0VUqTjfqk5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2082637295392616518",
+        "created_at": "2026-07-30T01:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082637295392616518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082637295392616518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17727,
+          "like_count": 98,
+          "quote_count": 6,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果把 X 上的 MtF 聚在一起组成一个城市（？\n会发生什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 131,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79 | 同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki",
+                "start": 0,
+                "url": "https://t.co/Rw9ougGlSd"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082448349387763712/cKmd-wgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 1238,
+          "like_count": 2451,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/Rw9ougGlSd",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

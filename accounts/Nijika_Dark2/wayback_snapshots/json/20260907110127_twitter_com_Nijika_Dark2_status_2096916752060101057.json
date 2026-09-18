@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2096916270314864873",
+    "created_at": "2026-09-07T11:01:27.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096916752060101057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875374709183016969",
+          "start": 0,
+          "username": "RIN10VERDOSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096916752060101057",
+    "in_reply_to_user_id": "1875374709183016969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096916270314864873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RIN10VERDOSE 怼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2096916270314864873",
+        "created_at": "2026-09-07T11:01:27.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096916752060101057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875374709183016969",
+              "start": 0,
+              "username": "RIN10VERDOSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096916752060101057",
+        "in_reply_to_user_id": "1875374709183016969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096916270314864873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RIN10VERDOSE 怼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875374709183016969",
+        "conversation_id": "2096916270314864873",
+        "created_at": "2026-09-07T10:59:32.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096916270314864873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nijika_Dark2/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Nijika_Dark2/status/2096915278349447575",
+              "start": 13,
+              "url": "https://t.co/jZqIh4mPL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096916270314864873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096915278349447575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特么。。我也要嫖娼吗！？ https://t.co/jZqIh4mPL3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2096916752060101057",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 203,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T02:52:36.000Z",
+        "description": "小林/低浮上/生涯的炼金术\n欢迎和我玩^^现生朋友请保密！\n好想吃oxy，快来和我拼机🥺",
+        "id": "1875374709183016969",
+        "is_identity_verified": false,
+        "location": "天目山路305号",
+        "most_recent_tweet_id": "2096916614637887684",
+        "name": "rinn",
+        "pinned_tweet_id": "2090478652912009456",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875374709183016969/1787231778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090102194049806336/1bvKXNU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 21,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "RIN10VERDOSE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

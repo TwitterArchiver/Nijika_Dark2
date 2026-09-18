@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2063810581216591877",
+    "created_at": "2026-06-08T02:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063810581216591877"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063810581216591877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是超级虹夏，也叫超级虹虹虹虹夏 ，前世@Nijika_overdose@Nijika_Dark呗大手封禁，寻回失散亲友中\n又盘碎一个核桃呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2063810581216591877",
+        "created_at": "2026-06-08T02:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063810581216591877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063810581216591877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是超级虹夏，也叫超级虹虹虹虹夏 ，前世@Nijika_overdose@Nijika_Dark呗大手封禁，寻回失散亲友中\n又盘碎一个核桃呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "",
+        "id": "2063809217488982016",
+        "name": "Nijika light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Nijika_Dark2",
+        "verified": false
+      }
+    ]
+  }
+}

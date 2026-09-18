@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064588179546779648"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2064588350720471120",
+    "created_at": "2026-06-10T05:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064588350720471120"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "重庆事件"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YfowXLNufM",
+          "end": 133,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2064588350720471120/video/1",
+          "media_key": "7_2064588179546779648",
+          "start": 110,
+          "url": "https://t.co/YfowXLNufM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064588350720471120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重庆人民围堵住现场官员，并高呼“警察打人！”“放人道歉！”\n其中，一位女士高喊到“你们拿着纳税人的钱就这样打人民群众？”\n另一位女士高喊到“几个大汉欺负人家一个小女孩，你们还是不是人！”\n摄于6月10日凌晨\n#重庆事件 https://t.co/YfowXLNufM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 98754,
+        "height": 1280,
+        "media_key": "7_2064588179546779648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064588179546779648/pu/img/BkZKP93-k6C5ZVEu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064588179546779648/pu/vid/avc1/320x568/lpxzAbcZNnwH51Ty.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064588179546779648/pu/vid/avc1/480x852/4C3s4rQ4Q1_NGcTM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064588179546779648/pu/vid/avc1/720x1280/8Qobsf543N3B-EsH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064588179546779648/pu/pl/HCS8TiDdw9uXMZDu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064588179546779648"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2064588350720471120",
+        "created_at": "2026-06-10T05:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064588350720471120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "重庆事件"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfowXLNufM",
+              "end": 133,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2064588350720471120/video/1",
+              "media_key": "7_2064588179546779648",
+              "start": 110,
+              "url": "https://t.co/YfowXLNufM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064588350720471120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重庆人民围堵住现场官员，并高呼“警察打人！”“放人道歉！”\n其中，一位女士高喊到“你们拿着纳税人的钱就这样打人民群众？”\n另一位女士高喊到“几个大汉欺负人家一个小女孩，你们还是不是人！”\n摄于6月10日凌晨\n#重庆事件 https://t.co/YfowXLNufM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜rc💊日本普瑞🍥hrt日雌泰补土色💊减肥产品下方链接｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "残月",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 56,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2096905170680717801",
+    "created_at": "2026-09-07T10:18:29.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096905938481410534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875374709183016969",
+          "start": 0,
+          "username": "RIN10VERDOSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096905938481410534",
+    "in_reply_to_user_id": "1875374709183016969",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096905170680717801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RIN10VERDOSE 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2096905170680717801",
+        "created_at": "2026-09-07T10:18:29.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096905938481410534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875374709183016969",
+              "start": 0,
+              "username": "RIN10VERDOSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096905938481410534",
+        "in_reply_to_user_id": "1875374709183016969",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096905170680717801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RIN10VERDOSE 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875374709183016969",
+        "conversation_id": "2096905170680717801",
+        "created_at": "2026-09-07T10:15:25.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096905170680717801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096905170680717801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公真的太好了是世界上最有距离感的人是最不爱合照的人好喜欢老公呀🥰🥰🥰💕💕💕去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死我看你是下次想被我掐了好想给你灌盐吃一起吃盐怎么样老公好可爱呀❤️‍🔥❤️‍🔥😚😚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2096905938481410534",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 203,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T02:52:36.000Z",
+        "description": "小林/低浮上/生涯的炼金术\n欢迎和我玩^^现生朋友请保密！\n好想吃oxy，快来和我拼机🥺",
+        "id": "1875374709183016969",
+        "is_identity_verified": false,
+        "location": "天目山路305号",
+        "most_recent_tweet_id": "2096905170680717801",
+        "name": "rinn",
+        "pinned_tweet_id": "2090478652912009456",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875374709183016969/1787231778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090102194049806336/1bvKXNU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 21,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "RIN10VERDOSE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
