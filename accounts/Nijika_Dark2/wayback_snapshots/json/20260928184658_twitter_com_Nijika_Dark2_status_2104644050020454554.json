@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2104641137273425991",
+    "created_at": "2026-09-28T18:46:58.000Z",
+    "display_text_range": [
+      10,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104644050020454554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867560160895651840",
+          "start": 0,
+          "username": "_c_a_n_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104644050020454554",
+    "in_reply_to_user_id": "1867560160895651840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104641137273425991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_c_a_n_o 本质现代人的文化认同感转为追求“小众”导致普遍开始让“小众”变得大众化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2104641137273425991",
+        "created_at": "2026-09-28T18:46:58.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104644050020454554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867560160895651840",
+              "start": 0,
+              "username": "_c_a_n_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104644050020454554",
+        "in_reply_to_user_id": "1867560160895651840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104641137273425991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_c_a_n_o 本质现代人的文化认同感转为追求“小众”导致普遍开始让“小众”变得大众化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867560160895651840",
+        "conversation_id": "2104641137273425991",
+        "created_at": "2026-09-28T18:35:24.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104641137273425991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104641137273425991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从20年至今所有宣传圈地自萌的小圈子全部dssq。\n在互联网的推流机制下，任何的不扩散原则都像个笑话。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2104644050020454554",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 218,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-13T13:20:24.000Z",
+        "description": "太美的 美的\n一切都将被换掉\n不顾骨髓的\n一切都将被换掉",
+        "id": "1867560160895651840",
+        "is_identity_verified": false,
+        "location": "中间",
+        "most_recent_tweet_id": "2104642517383954906",
+        "name": "南鸢🍥",
+        "pinned_tweet_id": "2087990751900971317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867560160895651840/1786645176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966911451828224/_tl9EtFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 90,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "_c_a_n_o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

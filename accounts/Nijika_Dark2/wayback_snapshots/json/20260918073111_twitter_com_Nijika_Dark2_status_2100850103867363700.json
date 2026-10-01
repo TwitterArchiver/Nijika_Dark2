@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2100761655416377528",
+    "created_at": "2026-09-18T07:31:11.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100850103867363700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083292041057120256",
+          "start": 0,
+          "username": "misakinae37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100850103867363700",
+    "in_reply_to_user_id": "2083292041057120256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100761655416377528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakinae37 不打游戏可能是双手残疾了，还是要多加尊重残障人士，回头问问他领不领低保"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2100761655416377528",
+        "created_at": "2026-09-18T07:31:11.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100850103867363700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083292041057120256",
+              "start": 0,
+              "username": "misakinae37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100850103867363700",
+        "in_reply_to_user_id": "2083292041057120256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100761655416377528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae37 不打游戏可能是双手残疾了，还是要多加尊重残障人士，回头问问他领不领低保"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083292041057120256",
+        "conversation_id": "2100761655416377528",
+        "created_at": "2026-09-18T01:39:43.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100761655416377528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100761655416377528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1803,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有大学室友不抽烟不喝酒不od不打游戏甚至也不怎么吃饭每天就在那聊天玩啊，这生活是不是有点太无聊了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2100850103867363700",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 211,
+          "like_count": 432,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T20:45:50.000Z",
+        "description": "我就是我呀，一条区区",
+        "id": "2083292041057120256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100845512664707076",
+        "name": "三崎南枳",
+        "pinned_tweet_id": "2086697575399473286",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 250,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "misakinae37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2101634056647766034",
+    "created_at": "2026-09-20T17:16:34.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101722194980274316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927827236872409090",
+          "start": 0,
+          "username": "mychoice0402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101722194980274316",
+    "in_reply_to_user_id": "1927827236872409090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101634056647766034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mychoice0402 梨指导sir this way@k1ku21_"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101634031196770304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqBBDVbEAAEyFZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2101634056647766034",
+        "created_at": "2026-09-20T17:16:34.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101722194980274316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927827236872409090",
+              "start": 0,
+              "username": "mychoice0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101722194980274316",
+        "in_reply_to_user_id": "1927827236872409090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101634056647766034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mychoice0402 梨指导sir this way@k1ku21_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101634031196770304"
+          ]
+        },
+        "author_id": "1927827236872409090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101634056647766034",
+        "created_at": "2026-09-20T11:26:20.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101634056647766034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZ1KCjDBNJ",
+              "end": 46,
+              "expanded_url": "https://x.com/mychoice0402/status/2101634056647766034/photo/1",
+              "media_key": "3_2101634031196770304",
+              "start": 23,
+              "url": "https://t.co/PZ1KCjDBNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101634056647766034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101634031196770304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紀念一下終於w1了 超級感謝梨梨指導哇aaa https://t.co/PZ1KCjDBNJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2101722194980274316",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 212,
+          "like_count": 466,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-28T20:40:15.000Z",
+        "description": "小香\n碎碎念/血图/过量服药\n不要跟我说话",
+        "id": "1927827236872409090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101696951310029082",
+        "name": "__pluviophile",
+        "pinned_tweet_id": "2090899578740686859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927827236872409090/1788783385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093986117221855232/EsYy2XHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 50,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "mychoice0402",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2104642601169404254",
+    "created_at": "2026-09-28T18:41:13.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104642601169404254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nijika_Dark2/s…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/Nijika_Dark2/status/2104633803847389321",
+          "start": 121,
+          "url": "https://t.co/asEksDdUHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104642601169404254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104633803847389321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "藤哥刚出欧莱雅社群发迹的时候我就跟着他干革命了！\n38个月，共患难了！\n如今让你们这些在对立面的滥用派像走资的邓小平一样冒用夺取政权，简直是欺负人减害派回归现生了！\n严正劝告：滥用派的各位本质蹲蛆们，get to work🗣️好吗？烂炒尼玛 https://t.co/asEksDdUHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_2104633796020854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUpSWIa4AARc0S.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2104642601169404254",
+        "created_at": "2026-09-28T18:41:13.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104642601169404254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nijika_Dark2/s…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Nijika_Dark2/status/2104633803847389321",
+              "start": 121,
+              "url": "https://t.co/asEksDdUHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104642601169404254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104633803847389321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "藤哥刚出欧莱雅社群发迹的时候我就跟着他干革命了！\n38个月，共患难了！\n如今让你们这些在对立面的滥用派像走资的邓小平一样冒用夺取政权，简直是欺负人减害派回归现生了！\n严正劝告：滥用派的各位本质蹲蛆们，get to work🗣️好吗？烂炒尼玛 https://t.co/asEksDdUHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104633796020854784"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2104633803847389321",
+        "created_at": "2026-09-28T18:06:15.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104633803847389321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYBsEH84z6",
+              "end": 139,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2104633803847389321/photo/1",
+              "media_key": "3_2104633796020854784",
+              "start": 116,
+              "url": "https://t.co/UYBsEH84z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104633803847389321",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104633796020854784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速报：药百官号已更名为减害派呃呃\n评：历史已经证明了减害派路线的正确，但是尼玛比这个马鹏宇成党派代言人是否有些……过于想炒作了😅\n在此正告马哥：没有国军归降收编后自己在山头称霸王的道理，你本质哈麻批，老老实实忏悔完疑心病的事再说😅 https://t.co/UYBsEH84z6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2104642601169404254",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 218,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

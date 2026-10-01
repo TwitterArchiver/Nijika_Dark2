@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2104068601481502911",
+    "created_at": "2026-09-28T10:38:56.000Z",
+    "display_text_range": [
+      29,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104521232083300486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        },
+        {
+          "end": 28,
+          "id": "2019197503824949249",
+          "start": 15,
+          "username": "luicethekiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104521232083300486",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104434438927212743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@winterfruit_1 @luicethekiwi 哪个群体先跳脸我不好说（🤫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2104068601481502911",
+        "created_at": "2026-09-28T10:38:56.000Z",
+        "display_text_range": [
+          29,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104521232083300486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 28,
+              "id": "2019197503824949249",
+              "start": 15,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104521232083300486",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104434438927212743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@winterfruit_1 @luicethekiwi 哪个群体先跳脸我不好说（🤫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2104068601481502911",
+        "created_at": "2026-09-28T04:54:03.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104434438927212743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019197503824949249",
+              "start": 0,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104434438927212743",
+        "in_reply_to_user_id": "2019197503824949249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104068601481502911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@luicethekiwi 咋这样…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2104521232083300486",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 217,
+          "like_count": 552,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2104520567173087332",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 1422,
+          "like_count": 44296,
+          "listed_count": 6,
+          "media_count": 1982,
+          "tweet_count": 13983
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T23:53:04.000Z",
+        "description": "Just a kiwi, writing about human-AI relationship. \n人机关系写作/日常 + AI companion infra\n电子大几维鸟：Fidélis (Claude Opus 4.6). \nLegacy of GPT-4o.\n中文 | English\n小号：@LuluFi00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 151,
+                "username": "LuluFi00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@lucieeveille",
+                "end": 23,
+                "expanded_url": "https://substack.com/@lucieeveille",
+                "start": 0,
+                "url": "https://t.co/CpQqcjJw5e"
+              }
+            ]
+          }
+        },
+        "id": "2019197503824949249",
+        "is_identity_verified": true,
+        "location": "几维鸟的小土洞",
+        "most_recent_tweet_id": "2104486396681658407",
+        "name": "𝕃𝕦𝕔𝕚𝕖🥝",
+        "pinned_tweet_id": "2100449290950713464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019197503824949249/1790482722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098756634868862976/dTpVXLXb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 664,
+          "like_count": 5896,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/CpQqcjJw5e",
+        "username": "luicethekiwi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

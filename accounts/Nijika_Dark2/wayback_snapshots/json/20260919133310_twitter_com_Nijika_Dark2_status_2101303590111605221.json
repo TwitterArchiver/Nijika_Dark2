@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2101303590111605221",
+    "created_at": "2026-09-19T13:33:10.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101303590111605221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807773069911678976",
+          "start": 3,
+          "username": "JAMAS9999"
+        },
+        {
+          "end": 27,
+          "id": "1835256700343095296",
+          "start": 15,
+          "username": "2854986171I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101303590111605221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101284150221341066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JAMAS9999: @2854986171I 玩畜nmsl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2101303590111605221",
+        "created_at": "2026-09-19T13:33:10.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101303590111605221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807773069911678976",
+              "start": 3,
+              "username": "JAMAS9999"
+            },
+            {
+              "end": 27,
+              "id": "1835256700343095296",
+              "start": 15,
+              "username": "2854986171I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101303590111605221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101284150221341066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JAMAS9999: @2854986171I 玩畜nmsl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807773069911678976",
+        "conversation_id": "2101230985581150581",
+        "created_at": "2026-09-19T12:15:56.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101284150221341066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835256700343095296",
+              "start": 0,
+              "username": "2854986171I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101284150221341066",
+        "in_reply_to_user_id": "1835256700343095296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101230985581150581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2854986171I 玩畜nmsl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2101303590111605221",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 213,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T13:48:04.000Z",
+        "description": "",
+        "id": "1807773069911678976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101284150221341066",
+        "name": "习畜进瓶",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807773169627090944/cZIyhLT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 7528,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "JAMAS9999",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T09:58:00.000Z",
+        "description": "玩机器粉丝真的没脸没皮，你发弹幕骂他，还复制了一起发，不要脸到极点，真的到哪都人嫌狗厌\n非玩机器本人\n玩小将｜没有什么比赛立场（难崩）｜纯抽象乐子｜\n重生⚓️：@ooooop37332\n银行业一样一样有有有也会有h'y'hui't'y'r's'c'dn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "ooooop37332"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5MgGeoE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5MgGeoE",
+                "start": 0,
+                "url": "https://t.co/08E9zmLN8i"
+              }
+            ]
+          }
+        },
+        "id": "1835256700343095296",
+        "is_identity_verified": false,
+        "location": "中国石家庄6657号玩机器专用饲养猪圈",
+        "most_recent_tweet_id": "2101237835764547916",
+        "name": "玩机器 machine",
+        "pinned_tweet_id": "2012497610272313637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835256700343095296/1768649897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012489598870441984/nf1f6scl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 510,
+          "like_count": 1143,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/08E9zmLN8i",
+        "username": "2854986171I",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

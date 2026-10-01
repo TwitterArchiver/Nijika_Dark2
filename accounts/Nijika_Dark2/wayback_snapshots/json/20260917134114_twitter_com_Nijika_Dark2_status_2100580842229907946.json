@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100580829072416768",
+        "3_2100580837171630080"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2100580842229907946",
+    "created_at": "2026-09-17T13:41:14.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100580842229907946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oadi9R2PF9",
+          "end": 128,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2100580842229907946/photo/1",
+          "media_key": "3_2100580829072416768",
+          "start": 105,
+          "url": "https://t.co/oadi9R2PF9"
+        },
+        {
+          "display_url": "pic.x.com/oadi9R2PF9",
+          "end": 128,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2100580842229907946/photo/1",
+          "media_key": "3_2100580837171630080",
+          "start": 105,
+          "url": "https://t.co/oadi9R2PF9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100580842229907946",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100580829072416768"
+      },
+      {
+        "media_key": "3_2100580837171630080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同班同学中，两位已经投了sci一作，一位sci二作；一位拿下一项国家发明专利主要发明人；一位省级自然科学基金立项\n同僚的实力，令我感到害怕\n究竟是旷世奇才还是背后有高僧指点🤔\n唉，想他了，工农兵大学你回来吧😭 https://t.co/oadi9R2PF9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 515,
+        "media_key": "3_2100580829072416768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDInrbYAAC5bB.jpg",
+        "width": 960
+      },
+      {
+        "height": 244,
+        "media_key": "3_2100580837171630080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDJF2bkAAX3-S.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100580829072416768",
+            "3_2100580837171630080"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2100580842229907946",
+        "created_at": "2026-09-17T13:41:14.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100580842229907946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oadi9R2PF9",
+              "end": 128,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2100580842229907946/photo/1",
+              "media_key": "3_2100580829072416768",
+              "start": 105,
+              "url": "https://t.co/oadi9R2PF9"
+            },
+            {
+              "display_url": "pic.x.com/oadi9R2PF9",
+              "end": 128,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2100580842229907946/photo/1",
+              "media_key": "3_2100580837171630080",
+              "start": 105,
+              "url": "https://t.co/oadi9R2PF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100580842229907946",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100580829072416768"
+          },
+          {
+            "media_key": "3_2100580837171630080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同班同学中，两位已经投了sci一作，一位sci二作；一位拿下一项国家发明专利主要发明人；一位省级自然科学基金立项\n同僚的实力，令我感到害怕\n究竟是旷世奇才还是背后有高僧指点🤔\n唉，想他了，工农兵大学你回来吧😭 https://t.co/oadi9R2PF9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2100580842229907946",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 210,
+          "like_count": 419,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

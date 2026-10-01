@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2102769994237194243",
+    "created_at": "2026-09-23T14:45:42.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102771394627211294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009802986600767489",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102771394627211294",
+    "in_reply_to_user_id": "2009802986600767489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102769994237194243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 他将会被诅咒下地狱。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2102769994237194243",
+        "created_at": "2026-09-23T14:45:42.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102771394627211294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009802986600767489",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102771394627211294",
+        "in_reply_to_user_id": "2009802986600767489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102769994237194243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 他将会被诅咒下地狱。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009802986600767489",
+        "conversation_id": "2102769994237194243",
+        "created_at": "2026-09-23T14:40:08.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102769994237194243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainyyosora/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/rainyyosora/status/2099396051862220976",
+              "start": 73,
+              "url": "https://t.co/6GGCbfdLIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102769994237194243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099396051862220976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花我钱之人，和果男群友说我是地雷妹之人，把我害进医院跑路之人，骗我在医院厕所实则无影无踪之人，害我被晶自己美美隐身之人，事后还舔着脸找我说话之人 https://t.co/6GGCbfdLIo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2102771394627211294",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 224,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-10T01:42:27.000Z",
+        "description": "今天有没有想我！前世互关寻回中… | 拖家带口→@Draft_000319 | @elsa_yrt | @Dominant_E | 写歌的 | 做视频的 | 戒药一年了也不打算再吃了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Draft_000319"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "Dominant_E"
+              }
+            ]
+          }
+        },
+        "id": "2009802986600767489",
+        "is_identity_verified": false,
+        "location": "疯人院里猫咪多",
+        "most_recent_tweet_id": "2102771269607575561",
+        "name": "旋宫牧雨2.0",
+        "pinned_tweet_id": "2069474428682182690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009802986600767489/1782065387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068756861625704448/aoZSfs8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 141,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "_mucha_000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

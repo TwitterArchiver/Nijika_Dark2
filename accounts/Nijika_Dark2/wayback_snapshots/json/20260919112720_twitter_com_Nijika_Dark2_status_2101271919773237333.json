@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101271913259798528"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2100857607363977278",
+    "created_at": "2026-09-19T11:27:20.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101271919773237333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717090595586584577",
+          "start": 0,
+          "username": "uncleTomat0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHlpec1W4Q",
+          "end": 39,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2101271919773237333/photo/1",
+          "media_key": "3_2101271913259798528",
+          "start": 16,
+          "url": "https://t.co/NHlpec1W4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101271919773237333",
+    "in_reply_to_user_id": "1717090595586584577",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101271913259798528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100857607363977278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uncleTomat0 依旧 https://t.co/NHlpec1W4Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2101271913259798528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSk3rA5bEAAgySG.jpg",
+        "width": 720
+      },
+      {
+        "duration_ms": 17300,
+        "height": 480,
+        "media_key": "13_2100600281595858944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100600281595858944/img/kdejvANdEamwYt0-.jpg",
+        "public_metrics": {
+          "view_count": 108241
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100600281595858944/vid/avc1/480x270/Yi-5_w1G0YpkDD1d.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100600281595858944/vid/avc1/640x360/xBprEnD37d3dnD0N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100600281595858944/vid/avc1/854x480/KHwTOVk6f_Mzi9NC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100600281595858944/pl/WxI9qoShr-CTTZbm.m3u8?v=cfc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101271913259798528"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2100857607363977278",
+        "created_at": "2026-09-19T11:27:20.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101271919773237333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717090595586584577",
+              "start": 0,
+              "username": "uncleTomat0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHlpec1W4Q",
+              "end": 39,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2101271919773237333/photo/1",
+              "media_key": "3_2101271913259798528",
+              "start": 16,
+              "url": "https://t.co/NHlpec1W4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101271919773237333",
+        "in_reply_to_user_id": "1717090595586584577",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101271913259798528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100857607363977278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uncleTomat0 依旧 https://t.co/NHlpec1W4Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100600281595858944"
+          ]
+        },
+        "author_id": "1717090595586584577",
+        "conversation_id": "2100857607363977278",
+        "created_at": "2026-09-18T08:01:00.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100857607363977278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjTsVsDRcs",
+              "end": 59,
+              "expanded_url": "https://x.com/uncleTomat0/status/2100857607363977278/video/1",
+              "media_key": "13_2100600281595858944",
+              "start": 36,
+              "url": "https://t.co/DjTsVsDRcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100857607363977278",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100600281595858944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 185109,
+          "like_count": 1076,
+          "quote_count": 14,
+          "reply_count": 329,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "这样的合成旅，我们有三十多个😁\n\n在X平台大放阙词的你，有几把键盘啊？ https://t.co/DjTsVsDRcs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2101271919773237333",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 213,
+          "like_count": 450,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-25T08:08:03.000Z",
+        "description": "如果您是志同道合的同志，欢迎互关，互动起来🥰 🇨🇳🇨🇳🇨🇳一位有趣的时政军事爱好者，与您分享最新有趣的时政军事信息！ 中国共产党万岁！为共产主义奋斗终身！打倒美帝国主义，打倒绿色恐怖政权！ 反贼、岛蛙欢迎battle",
+        "id": "1717090595586584577",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101267175160131964",
+        "name": "番茄大叔🇨🇳",
+        "pinned_tweet_id": "2052011082353701200",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717090595586584577/1728609343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995444805271453696/a6DPJ7o2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38634,
+          "following_count": 4055,
+          "like_count": 10629,
+          "listed_count": 141,
+          "media_count": 3179,
+          "tweet_count": 23957
+        },
+        "url": "",
+        "username": "uncleTomat0",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

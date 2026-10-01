@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100824502976626690"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2074778477883208079",
+    "created_at": "2026-09-18T05:49:29.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T06:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100824510106865970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bt6ZlVIwbv",
+          "end": 48,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2100824510106865970/photo/1",
+          "media_key": "3_2100824502976626690",
+          "start": 25,
+          "url": "https://t.co/Bt6ZlVIwbv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100824510106865970",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100824502976626690"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074778477883208079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 支持，佛不渡无缘人 https://t.co/Bt6ZlVIwbv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2100824502976626690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSegwTtbwAI1IbD.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100824502976626690"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2074778477883208079",
+        "created_at": "2026-09-18T05:49:29.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100824510106865970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bt6ZlVIwbv",
+              "end": 48,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2100824510106865970/photo/1",
+              "media_key": "3_2100824502976626690",
+              "start": 25,
+              "url": "https://t.co/Bt6ZlVIwbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100824510106865970",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100824502976626690"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074778477883208079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 支持，佛不渡无缘人 https://t.co/Bt6ZlVIwbv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2074778477883208079",
+        "created_at": "2026-07-08T08:51:51.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074778477883208079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074778477883208079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "清空了绝大部分人和我现实生活可能产生的交集以及内网的全部联系方式，和大家说声抱歉，尽管我们可能已经建立了很良善的可贵友谊。\n只是可能在很久以前的某一刻 我以为自己靠福大命大活下来懂得的一点点边缘药理，能在你们脑子短路的时候做到帮助，所有的咨询和求助我无不给到最实用的免费回复，自我安慰就当是积德行善。但回忆过往种种，我看到我们这类人拿着我分享的绝对的安全范围，或是wiki以及ai去进行更深渊的试探。 \n无论是自我进行了成功的急救又或是被朋友保护下来，无非只是拉回一条烂命，心脏没有停跳罢了。\n所谓的科学药理，对我们这群人来说只是看起来更高级的放纵，生命们肉眼可见的逝去无时无刻在发生，我实在懒得聊什么物质代谢半衰期这种屌事了，保持对天道因果的敬畏。这辈子还要在这个烂泥潭里打几次滚，到底哪一年才会彻底把自己玩死。\n学医救不了中国人，抱歉，我一个精神残疾人此刻却越来越觉得我该是健全的那一个，做些真正的事。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4299,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清空了绝大部分人和我现实生活可能产生的交集以及内网的全部联系方式，和大家说声抱歉，尽管我们可能已经建立了很良善的可贵友谊。\n只是可能在很久以前的某一刻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2100824510106865970",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 212,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100820327635050892",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 706,
+          "like_count": 1459,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

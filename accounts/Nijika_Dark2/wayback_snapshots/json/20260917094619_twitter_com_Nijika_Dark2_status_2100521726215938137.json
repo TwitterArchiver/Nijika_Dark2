@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100521719295520768"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100521726215938137",
+    "created_at": "2026-09-17T09:46:19.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100521726215938137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UbA3pnBbYU",
+          "end": 23,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2100521726215938137/photo/1",
+          "media_key": "3_2100521719295520768",
+          "start": 0,
+          "url": "https://t.co/UbA3pnBbYU"
+        },
+        {
+          "display_url": "x.com/zza2ku/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/zza2ku/status/2100464175415693729",
+          "start": 24,
+          "url": "https://t.co/6q4bVfe2DN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100521726215938137",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100521719295520768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100464175415693729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/UbA3pnBbYU https://t.co/6q4bVfe2DN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 223,
+        "media_key": "3_2100521719295520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaNX-maMAAGYVR.jpg",
+        "width": 688
+      },
+      {
+        "height": 576,
+        "media_key": "3_2100464160366600192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZZBm4XIAANpIu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100521719295520768"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100521726215938137",
+        "created_at": "2026-09-17T09:46:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100521726215938137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbA3pnBbYU",
+              "end": 23,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2100521726215938137/photo/1",
+              "media_key": "3_2100521719295520768",
+              "start": 0,
+              "url": "https://t.co/UbA3pnBbYU"
+            },
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/zza2ku/status/2100464175415693729",
+              "start": 24,
+              "url": "https://t.co/6q4bVfe2DN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100521726215938137",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100521719295520768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100464175415693729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/UbA3pnBbYU https://t.co/6q4bVfe2DN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100464160366600192"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2100464175415693729",
+        "created_at": "2026-09-17T05:57:38.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100464175415693729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuKr4MWt2X",
+              "end": 25,
+              "expanded_url": "https://x.com/zza2ku/status/2100464175415693729/photo/1",
+              "media_key": "3_2100464160366600192",
+              "start": 2,
+              "url": "https://t.co/BuKr4MWt2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100464175415693729",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100464160366600192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1817,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/BuKr4MWt2X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2100521726215938137",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 210,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100510565009428911",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 110,
+          "like_count": 118,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

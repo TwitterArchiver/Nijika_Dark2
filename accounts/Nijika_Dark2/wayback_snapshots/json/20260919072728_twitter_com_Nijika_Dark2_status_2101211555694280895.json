@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2101147617384444204",
+    "created_at": "2026-09-19T07:27:28.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101211555694280895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101211555694280895",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101147617384444204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 嗑药喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101147598677753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjGm8_aQAAA6IT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2101147617384444204",
+        "created_at": "2026-09-19T07:27:28.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101211555694280895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101211555694280895",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101147617384444204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 嗑药喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101147598677753856"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101147617384444204",
+        "created_at": "2026-09-19T03:13:24.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101147617384444204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/QhUFbuib7Es/",
+              "end": 87,
+              "expanded_url": "https://v.douyin.com/QhUFbuib7Es/",
+              "start": 64,
+              "status": 200,
+              "unwound_url": "https://www.douyin.com/video/7686695639698165028",
+              "url": "https://t.co/FUk7jm5kOG"
+            },
+            {
+              "display_url": "pic.x.com/W2irmIly3N",
+              "end": 135,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2101147617384444204/photo/1",
+              "media_key": "3_2101147598677753856",
+              "start": 112,
+              "url": "https://t.co/W2irmIly3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101147617384444204",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101147598677753856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 427,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸了就能变猫耳白毛吗\n\n8.41 复制打开抖音，看看【罗平警方的作品】Lay Down 自设原创禁毒向手书 # 拒绝毒品... https://t.co/FUk7jm5kOG 07/15 BGi:/ C@h.bn :1pm https://t.co/W2irmIly3N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2101211555694280895",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 213,
+          "like_count": 443,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2101159172792586534",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 717,
+          "like_count": 17679,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 8701
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

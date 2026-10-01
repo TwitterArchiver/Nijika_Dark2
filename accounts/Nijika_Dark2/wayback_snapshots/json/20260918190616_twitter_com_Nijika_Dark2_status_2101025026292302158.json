@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100954895964925952"
+      ],
+      "media_source_tweet_id": [
+        "2100954945528995964"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2101025026292302158",
+    "created_at": "2026-09-18T19:06:16.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T20:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101025026292302158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852135214795100164",
+          "start": 3,
+          "username": "ayameeii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M1aRJXYMjO",
+          "end": 58,
+          "expanded_url": "https://x.com/ayameeii/status/2100954945528995964/photo/1",
+          "media_key": "3_2100954895964925952",
+          "start": 35,
+          "url": "https://t.co/M1aRJXYMjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101025026292302158",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100954895964925952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100954945528995964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayameeii: 虹夏的预告 出成这样子我很有负罪感。。。 https://t.co/M1aRJXYMjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_2100954895964925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgXWLcbcAAsppn.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100954895964925952"
+          ],
+          "media_source_tweet_id": [
+            "2100954945528995964"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2101025026292302158",
+        "created_at": "2026-09-18T19:06:16.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101025026292302158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852135214795100164",
+              "start": 3,
+              "username": "ayameeii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1aRJXYMjO",
+              "end": 58,
+              "expanded_url": "https://x.com/ayameeii/status/2100954945528995964/photo/1",
+              "media_key": "3_2100954895964925952",
+              "start": 35,
+              "url": "https://t.co/M1aRJXYMjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101025026292302158",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100954895964925952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100954945528995964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayameeii: 虹夏的预告 出成这样子我很有负罪感。。。 https://t.co/M1aRJXYMjO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100954895964925952"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2100954945528995964",
+        "created_at": "2026-09-18T14:27:47.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100954945528995964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1aRJXYMjO",
+              "end": 44,
+              "expanded_url": "https://x.com/ayameeii/status/2100954945528995964/photo/1",
+              "media_key": "3_2100954895964925952",
+              "start": 21,
+              "url": "https://t.co/M1aRJXYMjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100954945528995964",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100954895964925952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 714,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虹夏的预告 出成这样子我很有负罪感。。。 https://t.co/M1aRJXYMjO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2101025026292302158",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 213,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2100975184484376806",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 819,
+          "like_count": 11798,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 5113
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

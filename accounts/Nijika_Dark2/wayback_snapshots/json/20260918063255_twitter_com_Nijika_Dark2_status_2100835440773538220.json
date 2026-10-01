@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2100825129295253727",
+    "created_at": "2026-09-18T06:32:55.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100835440773538220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "IshikiFumei514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100835440773538220",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100825129295253727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IshikiFumei514 我转发了一些淫秽内容"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_2100825123628765184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSehUb0b0AAqTxh.jpg",
+        "width": 336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2100825129295253727",
+        "created_at": "2026-09-18T06:32:55.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100835440773538220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "IshikiFumei514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100835440773538220",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100825129295253727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IshikiFumei514 我转发了一些淫秽内容"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100825123628765184"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2100825129295253727",
+        "created_at": "2026-09-18T05:51:56.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100825129295253727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAXGlDFbFY",
+              "end": 68,
+              "expanded_url": "https://x.com/IshikiFumei514/status/2100825129295253727/photo/1",
+              "media_key": "3_2100825123628765184",
+              "start": 45,
+              "url": "https://t.co/JAXGlDFbFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100825129295253727",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100825123628765184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享一下你第一次在墙内因为不当言论而被封禁的趣事吧\n我：在QQ空间转发了一个维尼熊的照片 https://t.co/JAXGlDFbFY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2100835440773538220",
+        "name": "夏虫不可语虹",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 212,
+          "like_count": 428,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "只是路边的小石子。成分：梗图转发/键政(站中间串两边)/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2100825129295253727",
+        "name": "意識不明",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099530538042462208/TQKzFJF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 894,
+          "like_count": 15676,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 4950
+        },
+        "url": "",
+        "username": "IshikiFumei514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

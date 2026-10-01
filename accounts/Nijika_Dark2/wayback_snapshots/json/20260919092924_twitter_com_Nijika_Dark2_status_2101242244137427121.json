@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2101102568441282752",
+    "created_at": "2026-09-19T09:29:24.000Z",
+    "display_text_range": [
+      30,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101242244137427121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 29,
+          "id": "2041449281677045760",
+          "start": 16,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101242244137427121",
+    "in_reply_to_user_id": "2063809217488982016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101236284316684579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 @Sorcerer1311 补：我的问题，学艺不精了，原文给出使用的也是纳曲酮\n那估计是美国的毒蛆酒精中毒的时候都伴个阿片中毒呈现了海量案例，闹钟把纳洛酮就这么莫名其妙搬过来觉得能治疗酒精中毒，国情不同了\n不过诊疗规范确实需要更新了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2101102568441282752",
+        "created_at": "2026-09-19T09:29:24.000Z",
+        "display_text_range": [
+          30,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101242244137427121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "2041449281677045760",
+              "start": 16,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101242244137427121",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101236284316684579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Sorcerer1311 补：我的问题，学艺不精了，原文给出使用的也是纳曲酮\n那估计是美国的毒蛆酒精中毒的时候都伴个阿片中毒呈现了海量案例，闹钟把纳洛酮就这么莫名其妙搬过来觉得能治疗酒精中毒，国情不同了\n不过诊疗规范确实需要更新了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2101102568441282752",
+        "created_at": "2026-09-19T09:05:43.000Z",
+        "display_text_range": [
+          30,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101236284316684579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "2041449281677045760",
+              "start": 16,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101236284316684579",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101157134331420863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Sorcerer1311 老中主要是诊疗规范没跟上，但绝不是全世界只有老中这么干，也就是近些年默沙东更新的诊疗手册才把酒精中毒的诊疗改为了维持体征的支持治疗\n18年美国精神医学学会《APA酒精使用障碍药物治疗实践指南》中仍然大量提及使用纳洛酮治疗酒精中毒\n可以说老中没跟上但不能说只有老中这么干"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2101242244137427121",
+        "name": "青浦区戒瘾康复中心287号改造人员虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 213,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2101159172792586534",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 717,
+          "like_count": 17682,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 8701
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2101228554373750868",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1143,
+          "like_count": 3021,
+          "listed_count": 4,
+          "media_count": 641,
+          "tweet_count": 4538
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2102314635399770497",
+    "created_at": "2026-09-22T12:54:30.000Z",
+    "display_text_range": [
+      14,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T13:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102381020188479527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102381020188479527",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102314635399770497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki Edward＆沐雨：我有亲戚是条子，给我搞杜平来西的，你们圈子里谁敢不尊重我就点你们进去\n你怕不怕？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2102314635399770497",
+        "created_at": "2026-09-22T12:54:30.000Z",
+        "display_text_range": [
+          14,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102381020188479527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102381020188479527",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102314635399770497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki Edward＆沐雨：我有亲戚是条子，给我搞杜平来西的，你们圈子里谁敢不尊重我就点你们进去\n你怕不怕？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "2102314635399770497",
+        "created_at": "2026-09-22T08:30:42.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102314635399770497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102314635399770497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4949,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据已知情报，OD圈有条子内鬼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2102381020188479527",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102079255341588481/u-bqnna6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 217,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/1UhiZIz90O —— 直属群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 23,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 0,
+                "url": "https://t.co/1UhiZIz90O"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "is_identity_verified": false,
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "most_recent_tweet_id": "2102314635399770497",
+        "name": "高原观察团 来自 odw组",
+        "pinned_tweet_id": "2068791279224521011",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798724969695977472/1780154866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060745192475643904/XAszfBgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 8,
+          "like_count": 426,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "overdosewiki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
