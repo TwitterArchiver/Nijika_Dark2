@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-07T08:01:27",
+  "last_updated": "2026-10-07T08:01:44",
   "html": {
     "https://web.archive.org/web/20260608022920if_/https://twitter.com/Nijika_Dark2/status/2063810581216591877": {
       "status": "done",
@@ -4714,9 +4714,9 @@
       "referenced_by": [
         "20260610055955_twitter_com_Nijika_Dark2_status_2064588350720471120.json"
       ],
-      "last_updated": "2026-09-18T11:44:19",
+      "last_updated": "2026-10-07T08:01:44",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610055955/https://video.twimg.com/ext_tw_video/2064588179546779648/pu/vid/avc1/720x1280/8Qobsf543N3B-EsH.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2073045985358749696/vid/avc1/1280x720/HTya88ivdkCAHDl7.mp4?tag=14": {
       "status": "done",
