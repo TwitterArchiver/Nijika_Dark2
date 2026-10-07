@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2106062576241332695",
+    "created_at": "2026-10-02T16:43:41.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106062576241332695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seaskyfor/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/seaskyfor/status/2105912831384355223",
+          "start": 26,
+          "url": "https://t.co/OUsUtMqwce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106062576241332695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105912831384355223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "111转我50000u发张你人生的三天体验卡呗哥们 https://t.co/OUsUtMqwce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105912793589493760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm0hzXaMAAiz9e.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3071,
+        "media_key": "3_2105912815047553024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm0jDTaMAAQecW.jpg",
+        "width": 3696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2106062576241332695",
+        "created_at": "2026-10-02T16:43:41.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106062576241332695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seaskyfor/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/seaskyfor/status/2105912831384355223",
+              "start": 26,
+              "url": "https://t.co/OUsUtMqwce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106062576241332695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105912831384355223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "111转我50000u发张你人生的三天体验卡呗哥们 https://t.co/OUsUtMqwce"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105912793589493760",
+            "3_2105912815047553024"
+          ]
+        },
+        "author_id": "2075187156268773376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105912831384355223",
+        "created_at": "2026-10-02T06:48:39.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105912831384355223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utjYC3RNKE",
+              "end": 91,
+              "expanded_url": "https://x.com/seaskyfor/status/2105912831384355223/photo/1",
+              "media_key": "3_2105912793589493760",
+              "start": 68,
+              "url": "https://t.co/utjYC3RNKE"
+            },
+            {
+              "display_url": "pic.x.com/utjYC3RNKE",
+              "end": 91,
+              "expanded_url": "https://x.com/seaskyfor/status/2105912831384355223/photo/1",
+              "media_key": "3_2105912815047553024",
+              "start": 68,
+              "url": "https://t.co/utjYC3RNKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105912831384355223",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105912793589493760"
+          },
+          {
+            "media_key": "3_2105912815047553024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10515,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5:23点火起飞  6:40被联合击落 \n我恨死拦着我的人  有本事你来体验我的人生\n\n感受是啥呢.. 双耳耳鸣 特别困  晕眩 悲伤 https://t.co/utjYC3RNKE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2106062576241332695",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 221,
+          "like_count": 611,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / illusion  / 08 高三 /  crypto trader / 许你岁岁平安 / 不像女生 不是男生 / 终将成为你 / 永不失联的tg逃生仓  https://t.co/qP2RTqn4g8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/illusion5201314",
+                "end": 110,
+                "expanded_url": "http://t.me/illusion5201314",
+                "start": 87,
+                "url": "https://t.co/qP2RTqn4g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2105923521163751500",
+        "name": "ill",
+        "pinned_tweet_id": "2101563683998749090",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 303,
+          "like_count": 607,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

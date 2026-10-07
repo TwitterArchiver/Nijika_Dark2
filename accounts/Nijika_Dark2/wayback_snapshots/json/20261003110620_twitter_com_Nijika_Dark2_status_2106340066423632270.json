@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2106315879923560626",
+    "created_at": "2026-10-03T11:06:20.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106340066423632270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106340066423632270",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106315879923560626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 感恩。。。\n虹夏确实很可爱🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2106315833668685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsjF0qaUAAa79K.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2106315879923560626",
+        "created_at": "2026-10-03T11:06:20.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106340066423632270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106340066423632270",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106315879923560626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 感恩。。。\n虹夏确实很可爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106315833668685824"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "conversation_id": "2106315879923560626",
+        "created_at": "2026-10-03T09:30:13.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106315879923560626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2063809217488982016",
+              "start": 6,
+              "username": "Nijika_Dark2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNMlixe4g8",
+              "end": 43,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2106315879923560626/photo/1",
+              "media_key": "3_2106315833668685824",
+              "start": 20,
+              "url": "https://t.co/HNMlixe4g8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106315879923560626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106315833668685824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁的附庸？\n@Nijika_Dark2 https://t.co/HNMlixe4g8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2106340066423632270",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 223,
+          "like_count": 617,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "@K1ku21_ @MukugeOvO @_NekoKage @GloryToHk8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "username": "MukugeOvO"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "_NekoKage"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "GloryToHk8964"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "is_identity_verified": false,
+        "location": "白鳥形人",
+        "most_recent_tweet_id": "2106325226279825558",
+        "name": "Hereditarystupidity #鬼宿三",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176077981099446272/1768635256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105176721955905536/kxWHLQ47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 867,
+          "like_count": 33612,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 3278
+        },
+        "url": "",
+        "username": "Yesmynamehaer1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

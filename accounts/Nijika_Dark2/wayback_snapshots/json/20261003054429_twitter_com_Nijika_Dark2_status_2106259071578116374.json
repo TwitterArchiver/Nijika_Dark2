@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106201939830779904"
+      ],
+      "media_source_tweet_id": [
+        "2106201947082772964"
+      ]
+    },
+    "author_id": "2063809217488982016",
+    "conversation_id": "2106259071578116374",
+    "created_at": "2026-10-03T05:44:29.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106259071578116374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2106193473988952064",
+          "start": 3,
+          "username": "yu_huacs2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRaIjPQmtM",
+          "end": 52,
+          "expanded_url": "https://x.com/yu_huacs2/status/2106201947082772964/photo/1",
+          "media_key": "3_2106201939830779904",
+          "start": 29,
+          "url": "https://t.co/BRaIjPQmtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106259071578116374",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106201939830779904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106201947082772964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_huacs2: 我重生了，新的一世我将…… https://t.co/BRaIjPQmtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1643,
+        "media_key": "3_2106201939830779904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTq7gVDaMAA3Wx_.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106201939830779904"
+          ],
+          "media_source_tweet_id": [
+            "2106201947082772964"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2106259071578116374",
+        "created_at": "2026-10-03T05:44:29.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106259071578116374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2106193473988952064",
+              "start": 3,
+              "username": "yu_huacs2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRaIjPQmtM",
+              "end": 52,
+              "expanded_url": "https://x.com/yu_huacs2/status/2106201947082772964/photo/1",
+              "media_key": "3_2106201939830779904",
+              "start": 29,
+              "url": "https://t.co/BRaIjPQmtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106259071578116374",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106201939830779904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106201947082772964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_huacs2: 我重生了，新的一世我将…… https://t.co/BRaIjPQmtM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106201939830779904"
+          ]
+        },
+        "author_id": "2106193473988952064",
+        "conversation_id": "2106201947082772964",
+        "created_at": "2026-10-03T01:57:30.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106201947082772964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRaIjPQmtM",
+              "end": 37,
+              "expanded_url": "https://x.com/yu_huacs2/status/2106201947082772964/photo/1",
+              "media_key": "3_2106201939830779904",
+              "start": 14,
+              "url": "https://t.co/BRaIjPQmtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106201947082772964",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106201939830779904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2546,
+          "like_count": 23,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，新的一世我将…… https://t.co/BRaIjPQmtM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2106259071578116374",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 223,
+          "like_count": 615,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-03T01:25:04.000Z",
+        "description": "我重生了\n双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的男婊子公路车技师\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\n喜欢的人@8964yekatinez   里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 19,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "8964yekatinez"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "yuhuacs5570"
+              }
+            ]
+          }
+        },
+        "id": "2106193473988952064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106240009334575315",
+        "name": "余华成霜2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106193473988952064/1790991164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106193858602356736/66WhKAjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 99,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "yu_huacs2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063809217488982016",
+    "conversation_id": "2106069182475583920",
+    "created_at": "2026-10-02T17:12:12.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106069751684546755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106069751684546755",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106069182475583920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 一步一跪一磕头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2106069182475583920",
+        "created_at": "2026-10-02T17:12:12.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106069751684546755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106069751684546755",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106069182475583920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 一步一跪一磕头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2106069182475583920",
+        "created_at": "2026-10-02T17:09:56.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106069182475583920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n9qhy/status/2…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/n9qhy/status/2105973402221854739",
+              "start": 70,
+              "url": "https://t.co/3dALwcKqs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106069182475583920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105973402221854739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/3dALwcKqs2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，漫无止境地寻回亲友中｜我有那个叫什么什么海默症来着？我忘了｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ks6PZ4w8oE80N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ks6PZ4w8oE80NjM9",
+                "start": 0,
+                "url": "https://t.co/y9FnxIAvUO"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2106069751684546755",
+        "name": "虹夏_过量",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102475655879532544/fehKrK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 221,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/y9FnxIAvUO",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2106069182475583920",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 735,
+          "like_count": 17823,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 8756
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
