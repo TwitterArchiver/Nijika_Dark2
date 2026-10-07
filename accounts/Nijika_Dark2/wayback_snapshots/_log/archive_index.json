@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-07T08:01:44",
+  "last_updated": "2026-10-07T08:02:14",
   "html": {
     "https://web.archive.org/web/20260608022920if_/https://twitter.com/Nijika_Dark2/status/2063810581216591877": {
       "status": "done",
@@ -5545,9 +5545,9 @@
         "20260610131931_twitter_com_Nijika_Dark2_status_2064698977547943984.json",
         "20260610135352_twitter_com_Nijika_Dark2_status_2064707621765136818.json"
       ],
-      "last_updated": "2026-09-18T11:44:40",
+      "last_updated": "2026-10-07T08:02:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610135352if_/https://pbs.twimg.com/profile_images/1117567994094206976/UH4YWEiZ_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1908387643156766720/Xrfzxofr_normal.png": {
       "status": "done",
@@ -5579,9 +5579,9 @@
         "20260611101723_twitter_com_Nijika_Dark2_status_2065015533108674693.json",
         "20260616112230_twitter_com_Nijika_Dark2_status_2066843859674653034.json"
       ],
-      "last_updated": "2026-09-18T11:44:40",
+      "last_updated": "2026-10-07T08:02:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260616112230if_/https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg": {
       "status": "done",
@@ -6828,11 +6828,11 @@
       "last_updated": "2026-09-18T11:44:41"
     },
     "https://pbs.twimg.com/profile_images/2094463076758384641/Yd7g2gJz_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260903120640_twitter_com_Nijika_Dark2_status_2095483615153098788.json"
       ],
-      "last_updated": "2026-09-18T11:44:42",
+      "last_updated": "2026-10-07T08:02:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260903120640if_/https://pbs.twimg.com/profile_images/2094463076758384641/Yd7g2gJz_normal.jpg",
       "miss_count": 1
     },
@@ -6995,9 +6995,9 @@
         "20260921160534_twitter_com_Nijika_Dark2_status_2102066717308641442.json",
         "20260922040126_twitter_com_Nijika_Dark2_status_2102246872224325820.json"
       ],
-      "last_updated": "2026-09-18T11:44:41",
+      "last_updated": "2026-10-07T08:02:14",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg": {
       "status": "done",
@@ -7130,9 +7130,9 @@
       "referenced_by": [
         "20260918054309_twitter_com_Nijika_Dark2_status_2100822917684879704.json"
       ],
-      "last_updated": "2026-10-01T19:26:55",
+      "last_updated": "2026-10-07T08:02:14",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260918054309if_/https://pbs.twimg.com/profile_images/2093456553777168384/he0JxYT9_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2022678727877103616/UP8slpdw_normal.jpg": {
       "status": "done",
